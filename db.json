@@ -1,8 +1,8 @@
 {
   "jobs": [
-    { "id": 1, "Category": "Websites, IT & Software" , "Job description": "Build a simple e commerce website", "Salary": "$400" },
-    { "id": 2, "Category": "Data Entry & Admin" , "Job description": "Collect data from PDF and enter to Excel sheet", "Salary": "$150" },
-    { "id": 3, "Category": "Design Media & Architecture" , "Job description": "Logo design for clothing brand", "Salary": "$230" }
+    { "id": 1, "Category": "Websites, IT & Software" , "Description": "Build a simple e commerce website", "Salary": "$400" },
+    { "id": 2, "Category": "Data Entry & Admin" , "Description": "Collect data from PDF and enter to Excel sheet", "Salary": "$150" },
+    { "id": 3, "Category": "Design Media & Architecture" , "Description": "Logo design for clothing brand", "Salary": "$230" }
   ]
 
 }
